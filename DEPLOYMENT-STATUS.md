@@ -8,13 +8,13 @@ The existing application has been prepared and tested locally. **External deploy
 | --- | --- | --- |
 | Frontend | **Ready (code)** | Production build passes; HTTPS API configuration and Vercel SPA fallback added. Real Vercel deployment remains unverified. |
 | Backend | **Ready (code)** | Start command and health endpoint pass; production dependency install succeeds; public network binding and environment validation are configured. Render deployment remains unverified. |
-| MongoDB | **Not Ready (production)** | Local data exists and was preserved. Atlas cluster, restricted database user, network access, and migration are pending. |
-| Authentication | **Not Ready (production accounts)** | Local auth/security tests pass; production public admin registration is blocked. Five existing accounts still use previously published demo passwords and require rotation before migration. Cross-host live auth remains unverified. |
+| MongoDB | **Ready** | `smart_water_portal` was migrated to `SmartWaterCluster` in MongoDB Atlas with matching records and indexes. A restricted SCRAM application user and temporary local verification rule are active; permanent Render outbound IP rules remain pending. |
+| Authentication | **Ready (Atlas)** | Administrator and staff passwords were rotated; old demo passwords are rejected. Atlas-backed login, profile, dashboard, areas, consumption and alerts checks pass. Cross-host live auth remains pending until Render and Vercel deploy. |
 | GitHub | **Ready** | Repository confirmed as `Sandeepkumar-6/WaterConsume`, with production branch `main`. It was empty before the prepared source was initialized, reviewed, committed, and pushed. |
 
 - **Frontend URL:** Not deployed / not assigned.
 - **Backend URL:** Not deployed / not assigned.
-- **Database:** Existing local `smart_water_portal`, MongoDB 8.0.29. Atlas target database name: `smart_water_portal`; cluster not provisioned.
+- **Database:** MongoDB Atlas `SmartWaterCluster`, database `smart_water_portal`; the unchanged local MongoDB 8.0.29 source remains available as a backup.
 - **Production branch:** `main` in [Sandeepkumar-6/WaterConsume](https://github.com/Sandeepkumar-6/WaterConsume).
 
 ## Verification completed
@@ -27,6 +27,8 @@ The existing application has been prepared and tested locally. **External deploy
 - Backend tests: **25 passed**, covering environment validation, production CORS/preflight and Authorization headers, prevention of generated cloud secrets, API URL normalization, production admin-registration rejection, bcrypt, login/JWT, protected APIs, staff/admin permissions, user/area CRUD, consumption, alerts, reports, filters, persisted data, actual backend restarts, database outage responses, and invalid startup configuration.
 - Existing Playwright suite: **8 passed**, covering development admin/staff registration, login/logout, refresh, protected navigation, admin/staff workflows, building assignments, consumption and alerts, CSV reports, session outage retry/expiry, and all existing pages across desktop/tablet/mobile sizes. Tests ran against isolated MongoDB data and local servers, not cloud deployments.
 - Existing database final counts match the initial read-only inventory: **6 users, 7 areas, 210 consumptions, 23 alerts, 0 audit logs**. No existing records were changed.
+- Atlas migration completed with the same counts and source indexes: users 6/2 indexes, areas 7/2, consumptions 210/2, alerts 23/2, auditlogs 0/1. The local source was not removed.
+- Atlas-backed administrator and staff login plus `/auth/me`, dashboard, areas, consumption, and alerts checks passed. Both previously published demo passwords return 401.
 - No upload subsystem or local uploaded-file dependency was found.
 - Source scan found no credential-bearing MongoDB URI, private key, or recognizable provider-token candidate in application source before edits. Existing `.env` files contain private local configuration and remain ignored. Published demo login passwords were removed from the README. Git history and previously published copies cannot be inspected without the repository.
 
@@ -72,10 +74,9 @@ Generated build/install/test files exist only in ignored `client/dist`, `.runtim
 
 ## Manual actions and remaining blockers
 
-1. Rotate the five existing demo-password accounts through local Team members before exporting; keep data and account IDs intact.
-2. Sign in to Atlas, create/configure the cluster and database user, and enter credentials privately. Install MongoDB Database Tools and migrate the complete database using the commands in `DEPLOYMENT.md`. Neither migration tool was on PATH during inspection.
-3. Sign in to Render/Vercel and authorize `Sandeepkumar-6/WaterConsume`. Enter secrets directly in Render, deploy the API, then build Vercel using its real URL. Set Render's frontend allowlist to the actual Vercel origin.
-4. Complete live registration/login/logout, refresh, role-permission, data persistence, CORS, HTTPS, and water-management acceptance checks. Record actual URLs and deployment identifiers here.
+1. Sign in to Render/Vercel and authorize `Sandeepkumar-6/WaterConsume`. Enter secrets directly in Render, deploy the API, then build Vercel using its real URL. Set Render's frontend allowlist to the actual Vercel origin.
+2. Add the Render service's outbound IP ranges permanently to Atlas Network Access. The local verification rule expires automatically and is not production access.
+3. Complete live registration/login/logout, refresh, role-permission, data persistence, CORS, HTTPS, and water-management acceptance checks. Record actual URLs and deployment identifiers here.
 
 No hosting CLI credentials or provider connector is available, and the Browser skill reports no connected browser. Execution is stopped before external account access, credential entry, authorization, and resource provisioning. Login/account access must be supplied by the user; it has not been bypassed or assumed.
 
