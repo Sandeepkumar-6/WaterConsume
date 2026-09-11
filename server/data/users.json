@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Aarav Sharma",
+    "email": "admin@smartwater.demo",
+    "role": "ADMIN",
+    "status": "ACTIVE",
+    "passwordEnv": "SEED_ADMIN_PASSWORD"
+  },
+  {
+    "name": "Rahul Patil",
+    "email": "rahul@smartwater.demo",
+    "role": "STAFF",
+    "status": "ACTIVE",
+    "assignedAreaCode": "CSB",
+    "passwordEnv": "SEED_STAFF_PASSWORD"
+  },
+  {
+    "name": "Priya Shah",
+    "email": "priya@smartwater.demo",
+    "role": "STAFF",
+    "status": "ACTIVE",
+    "assignedAreaCode": "HA",
+    "passwordEnv": "SEED_STAFF_PASSWORD"
+  },
+  {
+    "name": "Neha Joshi",
+    "email": "neha@smartwater.demo",
+    "role": "STAFF",
+    "status": "ACTIVE",
+    "assignedAreaCode": "CAF",
+    "passwordEnv": "SEED_STAFF_PASSWORD"
+  },
+  {
+    "name": "Amit Singh",
+    "email": "amit@smartwater.demo",
+    "role": "STAFF",
+    "status": "ACTIVE",
+    "assignedAreaCode": "LIB",
+    "passwordEnv": "SEED_STAFF_PASSWORD"
+  }
+]

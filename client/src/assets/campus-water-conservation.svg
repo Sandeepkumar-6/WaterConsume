@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="600" viewBox="0 0 720 600" fill="none">
+  <title>Water conservation at an Indian college campus</title>
+  <desc>An illustrated campus with shaded corridors, a rooftop water tank, native trees, and a hand turning off a brass tap at a tiled drinking-water point.</desc>
+  <defs>
+    <pattern id="tiles" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" stroke="#D6E4E6" stroke-width="1.5"/></pattern>
+    <pattern id="grille" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M5 0V10M0 5H10" stroke="#ACC6D4" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="720" height="600" rx="28" fill="#EAF3F8"/>
+  <circle cx="571" cy="95" r="43" fill="#F5E8C5"/>
+  <path d="M55 75H126M88 53H152M595 178H653" stroke="#FFF" stroke-width="12" stroke-linecap="round"/>
+  <path d="M0 322C123 271 238 303 369 278S607 288 720 254V600H0V322Z" fill="#D9E8DE"/>
+  <path d="M0 372C180 336 360 355 720 319V600H0V372Z" fill="#C7DECE"/>
+  <!-- Flat-roofed institutional block, shaded corridor and rooftop tank. -->
+  <path d="M113 133H497V306H113V133Z" fill="#ECE8DC"/>
+  <path d="M113 133H497V151H113V133ZM113 203H497V218H113V203Z" fill="#D4C9B0"/>
+  <path d="M101 124H509V138H101V124Z" fill="#809FAB"/>
+  <rect x="369" y="87" width="60" height="35" rx="6" fill="#4B6675"/>
+  <ellipse cx="399" cy="88" rx="30" ry="6" fill="#6C8490"/>
+  <path d="M375 97H423M375 108H423M377 122V129M421 122V129" stroke="#8B9FAB" stroke-width="3"/>
+  <path d="M419 101H442V258" stroke="#748D97" stroke-width="5"/>
+  <g fill="#406C80">
+    <path d="M135 160H177V198H135ZM197 160H239V198H197ZM259 160H301V198H259ZM321 160H363V198H321ZM383 160H425V198H383ZM445 160H477V198H445Z"/>
+  </g>
+  <path d="M135 160H477V198H135Z" fill="url(#grille)" opacity=".55"/>
+  <path d="M128 230H483V294H128V230Z" fill="#486C76"/>
+  <path d="M153 225V304M217 225V304M281 225V304M345 225V304M409 225V304M473 225V304" stroke="#E7E1D0" stroke-width="12"/>
+  <path d="M99 305H509M91 316H518" stroke="#BAC5BD" stroke-width="10"/>
+  <rect x="263" y="103" width="101" height="32" rx="2" fill="#FFFDF5"/>
+  <path d="M277 114H350M289 122H339" stroke="#62808C" stroke-width="3"/>
+  <!-- Neem-like campus trees and paved walkway. -->
+  <path d="M67 162V333M618 140V318" stroke="#8A8870" stroke-width="12"/>
+  <path d="M67 224L38 197M618 229L649 198M618 188L592 166" stroke="#8A8870" stroke-width="7"/>
+  <g fill="#749A74"><circle cx="49" cy="161" r="41"/><circle cx="87" cy="163" r="42"/><circle cx="67" cy="127" r="37"/><circle cx="600" cy="132" r="40"/><circle cx="641" cy="158" r="42"/><circle cx="596" cy="181" r="34"/></g>
+  <g fill="#95B38C"><circle cx="49" cy="135" r="27"/><circle cx="78" cy="117" r="24"/><circle cx="612" cy="121" r="29"/><circle cx="648" cy="151" r="25"/></g>
+  <path d="M110 340H523L647 600H242L110 340Z" fill="#E9E9DF"/>
+  <path d="M210 363L336 600M380 350L480 600M138 400H553M172 471H587" stroke="#D3D9CF" stroke-width="2"/>
+  <!-- Foreground drinking-water station. -->
+  <rect x="59" y="339" width="350" height="228" rx="10" fill="#BCCED2"/>
+  <rect x="70" y="327" width="334" height="189" rx="8" fill="#F9FCF9"/>
+  <rect x="70" y="327" width="334" height="189" rx="8" fill="url(#tiles)"/>
+  <path d="M68 510H409L379 550H96L68 510Z" fill="#E3ECE9"/>
+  <path d="M109 519H367L351 535H121L109 519Z" fill="#809CA7"/>
+  <path d="M68 551H383V564H68V551Z" fill="#7093A0"/>
+  <rect x="94" y="350" width="102" height="38" rx="5" fill="#E9F4EC"/>
+  <path d="M111 365L120 375L138 358" stroke="#4E8865" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 363H183M150 374H175" stroke="#6B947A" stroke-width="3"/>
+  <!-- Familiar brass bib tap: hand turns the cross handle shut. -->
+  <ellipse cx="282" cy="426" rx="25" ry="34" fill="#BFAC78"/>
+  <ellipse cx="282" cy="426" rx="16" ry="24" fill="#D8C895"/>
+  <path d="M275 411H319C331 411 340 420 340 432V449H315V436H275V411Z" fill="#B79B58"/>
+  <path d="M278 415H317C326 415 332 421 332 429" stroke="#E4D49F" stroke-width="7" stroke-linecap="round"/>
+  <rect x="313" y="445" width="30" height="9" rx="3" fill="#8F804F"/>
+  <path d="M294 411V391" stroke="#AD955B" stroke-width="12"/>
+  <rect x="265" y="382" width="59" height="11" rx="5.5" fill="#C6AF6B"/>
+  <path d="M281 384H315" stroke="#EDDB9F" stroke-width="3" stroke-linecap="round"/>
+  <!-- A natural brown hand and rolled blue uniform sleeve. -->
+  <path d="M720 374L570 381L446 351C420 345 402 347 385 355L326 378L288 377C281 377 276 382 278 389C280 395 289 398 297 398L332 402L379 395L345 414C337 419 340 429 350 429L390 411C405 415 419 414 433 408L531 447C549 454 566 458 583 457L720 451V374Z" fill="#BA815D"/>
+  <path d="M411 367L336 393L297 390M394 396L415 385" stroke="#9C664C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M576 365L720 348V476L571 464L576 365Z" fill="#316D9B"/>
+  <path d="M575 365L598 364L594 466L571 464L575 365Z" fill="#83AFCB"/>
+  <path d="M616 384L698 375M611 443L705 451" stroke="#5485AB" stroke-width="3"/>
+  <path d="M329 467C329 467 321 478 321 483C321 488 325 492 330 492C335 492 339 488 339 483C339 479 329 467 329 467Z" fill="#5BADD3"/>
+  <!-- Conservation check, no unsourced statistics. -->
+  <circle cx="480" cy="511" r="37" fill="#FFF"/>
+  <circle cx="480" cy="511" r="27" fill="#DFEFE3"/>
+  <path d="M467 511L476 520L493 501" stroke="#468367" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M26 565C27 536 38 521 47 520C51 539 45 554 26 565Z" fill="#55886D"/>
+  <path d="M24 566C6 545 4 532 10 522C25 534 29 549 24 566Z" fill="#8DB391"/>
+  <path d="M645 562C652 528 669 515 680 519C679 542 669 558 645 562Z" fill="#6D9A76"/>
+  <path d="M646 562C626 543 625 529 631 521C646 531 651 546 646 562Z" fill="#9FB995"/>
+</svg>

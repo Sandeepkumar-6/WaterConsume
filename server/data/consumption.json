@@ -1,0 +1,1682 @@
+[
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 29,
+    "amount": 3650,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 28,
+    "amount": 3500,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 27,
+    "amount": 5500,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 26,
+    "amount": 4200,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 25,
+    "amount": 4050,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 24,
+    "amount": 3900,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 23,
+    "amount": 4825,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 22,
+    "amount": 3600,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 21,
+    "amount": 3450,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 20,
+    "amount": 3300,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 19,
+    "amount": 4150,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 18,
+    "amount": 4000,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 17,
+    "amount": 3850,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 16,
+    "amount": 5200,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 15,
+    "amount": 3550,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 14,
+    "amount": 3400,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 13,
+    "amount": 4675,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 12,
+    "amount": 4100,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 11,
+    "amount": 3950,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 10,
+    "amount": 3800,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 9,
+    "amount": 3650,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 8,
+    "amount": 3500,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 7,
+    "amount": 3350,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 6,
+    "amount": 4200,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 5,
+    "amount": 5300,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 4,
+    "amount": 3900,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 3,
+    "amount": 4825,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 2,
+    "amount": 3600,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 1,
+    "amount": 3450,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "CSB",
+    "recordedByEmail": "rahul@smartwater.demo",
+    "dayOffset": 0,
+    "amount": 3600,
+    "unit": "Litres",
+    "notes": "Today's verified routine meter reading"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 29,
+    "amount": 9600,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 28,
+    "amount": 9240,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 27,
+    "amount": 12480,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 26,
+    "amount": 8520,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 25,
+    "amount": 8160,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 24,
+    "amount": 10200,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 23,
+    "amount": 11040,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 22,
+    "amount": 9480,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 21,
+    "amount": 9120,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 20,
+    "amount": 8760,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 19,
+    "amount": 8400,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 18,
+    "amount": 8040,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 17,
+    "amount": 10080,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 16,
+    "amount": 12720,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 15,
+    "amount": 9360,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 14,
+    "amount": 9000,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 13,
+    "amount": 11400,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 12,
+    "amount": 8280,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 11,
+    "amount": 7920,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 10,
+    "amount": 9960,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 9,
+    "amount": 9600,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 8,
+    "amount": 9240,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 7,
+    "amount": 8880,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 6,
+    "amount": 8520,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 5,
+    "amount": 12960,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 4,
+    "amount": 10200,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 3,
+    "amount": 11040,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 2,
+    "amount": 9480,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 1,
+    "amount": 9120,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "HA",
+    "recordedByEmail": "priya@smartwater.demo",
+    "dayOffset": 0,
+    "amount": 9360,
+    "unit": "Litres",
+    "notes": "Today's verified routine meter reading"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 29,
+    "amount": 2010,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 28,
+    "amount": 2520,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 27,
+    "amount": 3180,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 26,
+    "amount": 2340,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 25,
+    "amount": 2250,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 24,
+    "amount": 2160,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 23,
+    "amount": 2805,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 22,
+    "amount": 1980,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 21,
+    "amount": 2490,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 20,
+    "amount": 2400,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 19,
+    "amount": 2310,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 18,
+    "amount": 2220,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 17,
+    "amount": 2130,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 16,
+    "amount": 3240,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 15,
+    "amount": 2550,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 14,
+    "amount": 2460,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 13,
+    "amount": 2895,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 12,
+    "amount": 2280,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 11,
+    "amount": 2190,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 10,
+    "amount": 2100,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 9,
+    "amount": 2010,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 8,
+    "amount": 2520,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 7,
+    "amount": 2430,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 6,
+    "amount": 2340,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 5,
+    "amount": 3300,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 4,
+    "amount": 2160,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 3,
+    "amount": 2805,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 2,
+    "amount": 1980,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 1,
+    "amount": 2490,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "LIB",
+    "recordedByEmail": "amit@smartwater.demo",
+    "dayOffset": 0,
+    "amount": 2520,
+    "unit": "Litres",
+    "notes": "Today's verified routine meter reading"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 29,
+    "amount": 3330,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 28,
+    "amount": 3195,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 27,
+    "amount": 4860,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 26,
+    "amount": 3825,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 25,
+    "amount": 3690,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 24,
+    "amount": 3555,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 23,
+    "amount": 4275,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 22,
+    "amount": 3285,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 21,
+    "amount": 3150,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 20,
+    "amount": 3015,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 19,
+    "amount": 3780,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 18,
+    "amount": 3645,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 17,
+    "amount": 3510,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 16,
+    "amount": 4950,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 15,
+    "amount": 3240,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 14,
+    "amount": 3105,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 13,
+    "amount": 4140,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 12,
+    "amount": 3735,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 11,
+    "amount": 3600,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 10,
+    "amount": 3465,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 9,
+    "amount": 3330,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 8,
+    "amount": 3195,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 7,
+    "amount": 3060,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 6,
+    "amount": 3825,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 5,
+    "amount": 4680,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 4,
+    "amount": 3555,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 3,
+    "amount": 4275,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 2,
+    "amount": 3285,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 1,
+    "amount": 3150,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "CAF",
+    "recordedByEmail": "neha@smartwater.demo",
+    "dayOffset": 0,
+    "amount": 4185,
+    "unit": "Litres",
+    "notes": "Today's verified reading is approaching the configured limit"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 29,
+    "amount": 2835,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 28,
+    "amount": 2730,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 27,
+    "amount": 3850,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 26,
+    "amount": 2520,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 25,
+    "amount": 2415,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 24,
+    "amount": 2310,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 23,
+    "amount": 3378,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 22,
+    "amount": 2800,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 21,
+    "amount": 2695,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 20,
+    "amount": 2590,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 19,
+    "amount": 2485,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 18,
+    "amount": 2380,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 17,
+    "amount": 2975,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 16,
+    "amount": 3640,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 15,
+    "amount": 2765,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 14,
+    "amount": 2660,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 13,
+    "amount": 3273,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 12,
+    "amount": 2450,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 11,
+    "amount": 2345,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 10,
+    "amount": 2940,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 9,
+    "amount": 2835,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 8,
+    "amount": 2730,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 7,
+    "amount": 2625,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 6,
+    "amount": 2520,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 5,
+    "amount": 3710,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 4,
+    "amount": 2310,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 3,
+    "amount": 3378,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 2,
+    "amount": 2800,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 1,
+    "amount": 2695,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "ADM",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 0,
+    "amount": 3395,
+    "unit": "Litres",
+    "notes": "Today's verified reading is approaching the configured limit"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 29,
+    "amount": 5440,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 28,
+    "amount": 6800,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 27,
+    "amount": 8320,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 26,
+    "amount": 6320,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 25,
+    "amount": 6080,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 24,
+    "amount": 5840,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 23,
+    "amount": 7360,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 22,
+    "amount": 5360,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 21,
+    "amount": 6720,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 20,
+    "amount": 6480,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 19,
+    "amount": 6240,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 18,
+    "amount": 6000,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 17,
+    "amount": 5760,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 16,
+    "amount": 8480,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 15,
+    "amount": 5280,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 14,
+    "amount": 6640,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 13,
+    "amount": 7600,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 12,
+    "amount": 6160,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 11,
+    "amount": 5920,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 10,
+    "amount": 5680,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 9,
+    "amount": 5440,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 8,
+    "amount": 6800,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 7,
+    "amount": 6560,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 6,
+    "amount": 6320,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 5,
+    "amount": 8640,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 4,
+    "amount": 5840,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 3,
+    "amount": 7360,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 2,
+    "amount": 5360,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 1,
+    "amount": 6720,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "SPC",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 0,
+    "amount": 8640,
+    "unit": "Litres",
+    "notes": "Today's verified reading exceeds the configured limit"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 29,
+    "amount": 4500,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 28,
+    "amount": 4320,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 27,
+    "amount": 6360,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 26,
+    "amount": 3960,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 25,
+    "amount": 4980,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 24,
+    "amount": 4800,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 23,
+    "amount": 5610,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 22,
+    "amount": 4440,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 21,
+    "amount": 4260,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 20,
+    "amount": 4080,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 19,
+    "amount": 5100,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 18,
+    "amount": 4920,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 17,
+    "amount": 4740,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 16,
+    "amount": 6480,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 15,
+    "amount": 4380,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 14,
+    "amount": 4200,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 13,
+    "amount": 5790,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 12,
+    "amount": 5040,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 11,
+    "amount": 4860,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 10,
+    "amount": 4680,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 9,
+    "amount": 4500,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 8,
+    "amount": 4320,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 7,
+    "amount": 4140,
+    "unit": "Litres",
+    "notes": "Normal weekday operations"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 6,
+    "amount": 3960,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 5,
+    "amount": 6600,
+    "unit": "Litres",
+    "notes": "Verified high-usage day requiring follow-up"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 4,
+    "amount": 4800,
+    "unit": "Litres",
+    "notes": "Cleaning and maintenance included"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 3,
+    "amount": 5610,
+    "unit": "Litres",
+    "notes": "Usage approaching the configured daily limit"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 2,
+    "amount": 4440,
+    "unit": "Litres",
+    "notes": "Routine daily meter reading"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 1,
+    "amount": 4260,
+    "unit": "Litres",
+    "notes": "Lower-activity period"
+  },
+  {
+    "areaCode": "LAB",
+    "recordedByEmail": "admin@smartwater.demo",
+    "dayOffset": 0,
+    "amount": 6720,
+    "unit": "Litres",
+    "notes": "Today's verified reading exceeds the configured limit"
+  }
+]

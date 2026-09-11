@@ -1,0 +1,40 @@
+# Dependencies and generated builds (including nested workspaces)
+node_modules/
+dist/
+build/
+
+# Local configuration; safe templates remain part of the source package
+.env
+.env.*
+!.env.example
+
+# Generated test output, caches, logs and exports
+.runtime/
+coverage/
+playwright-report/
+playwright/.cache/
+test-results/
+.npm-cache/
+.cache/
+.vite/
+*.log
+exports/
+*.zip
+backups/
+dump/
+*.archive
+*.archive.gz
+*.bson
+*.bson.gz
+*.tmp
+.vercel/
+
+# Local editor and OS files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,29 @@
+{
+  "name": "water-server",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "predev": "node ../scripts/setup.mjs",
+    "prestart": "node ../scripts/setup.mjs",
+    "dev": "node server.js",
+    "start": "node server.js",
+    "preseed": "node ../scripts/setup.mjs",
+    "seed": "node seed.js",
+    "preseed:reset": "node ../scripts/setup.mjs",
+    "seed:reset": "node seed.js --reset",
+    "test": "node --test --test-concurrency=1 tests/*.test.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.2",
+    "bcrypt": "^6.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express-rate-limit": "^8.1.0"
+  },
+  "devDependencies": {
+    "supertest": "^7.1.4"
+  }
+}

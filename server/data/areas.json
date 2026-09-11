@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Computer Science Block",
+    "code": "CSB",
+    "location": "Academic Block",
+    "responsibleStaffEmail": "rahul@smartwater.demo",
+    "dailyLimit": 5000,
+    "monthlyLimit": 150000,
+    "unit": "Litres",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Hostel A",
+    "code": "HA",
+    "location": "Boys Hostel",
+    "responsibleStaffEmail": "priya@smartwater.demo",
+    "dailyLimit": 12000,
+    "monthlyLimit": 360000,
+    "unit": "Litres",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Library",
+    "code": "LIB",
+    "location": "Central Library",
+    "responsibleStaffEmail": "amit@smartwater.demo",
+    "dailyLimit": 3000,
+    "monthlyLimit": 90000,
+    "unit": "Litres",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Cafeteria",
+    "code": "CAF",
+    "location": "Student Activity Area",
+    "responsibleStaffEmail": "neha@smartwater.demo",
+    "dailyLimit": 4500,
+    "monthlyLimit": 135000,
+    "unit": "Litres",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Administration Block",
+    "code": "ADM",
+    "location": "Main Administrative Building",
+    "dailyLimit": 3500,
+    "monthlyLimit": 105000,
+    "unit": "Litres",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Sports Complex",
+    "code": "SPC",
+    "location": "Sports Area",
+    "dailyLimit": 8000,
+    "monthlyLimit": 240000,
+    "unit": "Litres",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Laboratory Block",
+    "code": "LAB",
+    "location": "Science Block",
+    "dailyLimit": 6000,
+    "monthlyLimit": 180000,
+    "unit": "Litres",
+    "status": "ACTIVE"
+  }
+]

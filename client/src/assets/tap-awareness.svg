@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" fill="none">
+  <title>Check campus taps for leaks</title>
+  <desc>A brass wall tap above a tiled wash basin with a single water drop and a green leaf.</desc>
+  <rect width="320" height="240" rx="24" fill="#EDF4F6"/>
+  <path d="M34 33H282V197H34V33Z" fill="#FAFCF7"/>
+  <path d="M34 73H282M34 115H282M34 156H282M75 33V197M117 33V197M159 33V197M201 33V197M243 33V197" stroke="#DAE5E3" stroke-width="1.5"/>
+  <ellipse cx="115" cy="113" rx="20" ry="28" fill="#C2AD70"/>
+  <ellipse cx="115" cy="113" rx="12" ry="20" fill="#E7D7A5"/>
+  <path d="M111 101H178C191 101 198 109 198 123V141H175V125H111V101Z" fill="#B49A59"/>
+  <path d="M115 105H177C184 105 191 111 191 119" stroke="#E7D59D" stroke-width="5" stroke-linecap="round"/>
+  <path d="M146 100V81" stroke="#B09A62" stroke-width="10"/>
+  <rect x="119" y="73" width="53" height="10" rx="5" fill="#C7B273"/>
+  <rect x="172" y="137" width="29" height="8" rx="3" fill="#8C7D50"/>
+  <path d="M186 156C186 156 177 168 177 174C177 180 181 184 187 184C193 184 197 180 197 174C197 168 186 156 186 156Z" fill="#4D99C2"/>
+  <path d="M26 194H290L270 218H48L26 194Z" fill="#C8D8D9"/>
+  <path d="M52 197H267L256 207H63L52 197Z" fill="#8BA4AC"/>
+  <path d="M244 165C243 131 255 115 276 109C282 135 271 157 244 165Z" fill="#79A787"/>
+  <path d="M245 165L266 125" stroke="#44785B" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M241 163C220 159 214 145 217 132C234 134 244 144 241 163Z" fill="#B0C9A8"/>
+</svg>
